@@ -9,13 +9,11 @@ O objetivo deste projeto é recriar interface de usuário  Spotify para praticar
 ## Tecnologias Utilizadas
 
 <div display-flex>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" title="Javascrpit" widht="40" height="40">
-  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" title="CSS" widht="40" height="40">
-  <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" title="HTML" widht="40" height="40">
+  <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" title="HTML" width="40" height="40" hspace="2px">
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" title="CSS" width="40" height="40" hspace="2px">
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" title="Javascrpit" width="40" height="40" hspace="2px">
+  <img src="https://github.com/Igormachado90/Spotify_Imersao_Alura/assets/117872151/53b03222-b184-4468-be44-b932d39a4155" title="React.ja" width="40" height="40" hspace="2px">
 </div>
-- HTML5
-- CSS3 
-- JavaScript 
 - React/frameworks (opcional, como Vue.js, Angular)
 
 ## Funcionalidades Principais
