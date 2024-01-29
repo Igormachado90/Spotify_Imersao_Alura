@@ -8,6 +8,11 @@ O objetivo deste projeto é recriar interface de usuário  Spotify para praticar
 
 ## Tecnologias Utilizadas
 
+<div display-flex>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" title="Javascrpit" widht="40" height="40">
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" title="CSS" widht="40" height="40">
+  <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" title="HTML" widht="40" height="40">
+</div>
 - HTML5
 - CSS3 
 - JavaScript 
