@@ -1,6 +1,4 @@
-<div style="display: inline_block">
-<img src="https://cdn-icons-png.flaticon.com/128/3669/3669986.png" widht=300px align="right"/> 
-<div/># Clone do Spotify - Front-end
+# Clone do Spotify - Front-end
 
 Este é projeto de clone do Spotify replica parte interface de usuário Spotify. Front-end usando tecnologias como HTML, CSS e possivelmente JavaScript para interações dinâmicas.
 
