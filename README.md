@@ -38,6 +38,7 @@ O projeto está organizado seguinte forma:
 - **api-artists/**: Diretório contendo arquivos JSON para simular API com JSON Server.
 
 ## Capturas de Tela
+### ![Link Projeto](https://igormachado90.github.io/Spotify_Imersao_Alura/Spotify.html)
 
 Inclua algumas capturas de tela demonstrando aparência e funcionalidade do projeto.
 
